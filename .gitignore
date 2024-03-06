@@ -1,0 +1,25 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the virtual environment folder
+venv/
+.venv/
+
+
+# Ignore environment-specific settings
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore logs
+logs/
+
+# Ignore migrations
+*/migrations/
+
+# Ignore local settings
+*.local/
+*.log
